@@ -91,7 +91,7 @@ export default function Header() {
               width={32}
               height={32}
             />
-            <span>John Doe</span>
+            <span>Harsh Patil</span>
             <span className="material-symbols-outlined text-gray-500">expand_more</span>
           </button>
 

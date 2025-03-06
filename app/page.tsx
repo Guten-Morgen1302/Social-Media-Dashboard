@@ -11,7 +11,7 @@ export default function Dashboard() {
       <div className="mb-6">
         <h2 className="text-2xl font-semibold">Dashboard Overview</h2>
         <p className="text-gray-600">
-          Welcome back, John! Here&apos;s what&apos;s happening across your social accounts.
+          Welcome back, Harsh! Here&apos;s what&apos;s happening across your social accounts.
         </p>
       </div>
 

@@ -100,7 +100,7 @@ export default function Settings() {
                       <input
                         type="text"
                         className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-                        defaultValue="John"
+                        defaultValue="Harsh"
                       />
                     </div>
                     <div>
@@ -116,7 +116,7 @@ export default function Settings() {
                       <input
                         type="email"
                         className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-                        defaultValue="john@socialdash.com"
+                        defaultValue="harsh@socialdash.com"
                       />
                     </div>
                     <div>
@@ -179,7 +179,7 @@ export default function Settings() {
                         </span>
                       </div>
                     </div>
-                    <div className="text-sm text-gray-600 mb-3">Connected as John Doe</div>
+                    <div className="text-sm text-gray-600 mb-3">Connected as Harsh Patil</div>
                     <div className="flex justify-between items-center">
                       <div className="text-xs text-gray-500">Last synced: Today, 10:23 AM</div>
                       <button className="text-red-600 text-sm font-medium hover:underline">Disconnect</button>
@@ -198,7 +198,7 @@ export default function Settings() {
                         </span>
                       </div>
                     </div>
-                    <div className="text-sm text-gray-600 mb-3">Connected as @johndoe_design</div>
+                    <div className="text-sm text-gray-600 mb-3">Connected as @harshpatil_design</div>
                     <div className="flex justify-between items-center">
                       <div className="text-xs text-gray-500">Last synced: Yesterday, 3:15 PM</div>
                       <button className="text-red-600 text-sm font-medium hover:underline">Disconnect</button>
@@ -217,7 +217,7 @@ export default function Settings() {
                         </span>
                       </div>
                     </div>
-                    <div className="text-sm text-gray-600 mb-3">Connected as @johndoe</div>
+                    <div className="text-sm text-gray-600 mb-3">Connected as @harshpatil</div>
                     <div className="flex justify-between items-center">
                       <div className="text-xs text-gray-500">Last synced: Oct 20, 2023, 5:47 PM</div>
                       <button className="text-red-600 text-sm font-medium hover:underline">Disconnect</button>
